@@ -1,8 +1,8 @@
 # What is this to for?
 
-I use this for twen discord bot to access the
-• Points
-• Prefixes
+I use this for twen discord bot to access the</br>
+• Points</br>
+• Prefixes</br>
 
 # Installation
 
@@ -36,6 +36,6 @@ twen.prefixes (ID, defpre, key).then (console.log);
 
 This is not for you want to use.. 
 Because u didnt get the key to access it..
-Only can use:
-• Owner
-• Support
+Only can use:</br>
+• Owner</br>
+• Support</br>
