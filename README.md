@@ -30,6 +30,13 @@ twen.prefixes (ID, defpre, key).then (console.log);
 /*Output:
 { guild: { prefix: "t.", isChange: false }, status: "OK"}
 */
+
+let num = twen.generate(); //this function to make a random number
+console.log(num);
+
+/*Output:
+9
+*/
 ```
 
 # Important
