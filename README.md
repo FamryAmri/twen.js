@@ -28,7 +28,7 @@ twen.points (ID, key).then (console.log);
 { user: { points: 12948, level: 10, isLevelUp: false }, status: "OK"}
 */
 
-twen.prefixes (ID, defpre, key).then (console.log);
+twen.prefixes (guildID, defpre, key).then (console.log);
 
 /*Output:
 { guild: { prefix: "t.", isChange: false }, status: "OK"}
