@@ -8,6 +8,9 @@ I use this for twen discord bot to access the</br>
 
 `npm i twen.js --save`
 
+OR you can download the repository to use it
+But I recommend to use that npm package
+
 # For example to use it
 
 ```js
