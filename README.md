@@ -41,7 +41,7 @@ console.log(num);
 9
 */
 ```
-
+All functions is promises...
 # Important
 
 This is not for you want to use.. 
