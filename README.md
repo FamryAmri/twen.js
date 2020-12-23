@@ -49,5 +49,3 @@ Because u didnt get the key to access it..
 Only can use:</br>
 • Owner</br>
 • Support</br>
-
-### is ded to use
